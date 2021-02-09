@@ -10,7 +10,7 @@ Yes, thats it. Groove to your favorite songs....
 - Plays several radio stations
 - Changes color according to the radio stations pref.
 - Play Pause button
-- Continue even if the app is in background
+- Continues to play even if the app is in background
 
 ## Screenshots:
 
